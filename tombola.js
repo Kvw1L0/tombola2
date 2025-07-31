@@ -1,1 +1,0 @@
-// tombola behavior JS placeholder
