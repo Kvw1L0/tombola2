@@ -1,1 +1,0 @@
-// Comportamiento de la tómbola aquí
