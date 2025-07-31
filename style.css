@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  height: 100vh;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+  background: #222;
+  color: #fff;
+  font-family: sans-serif;
+}
+#app { text-align: center; }
+
+.die-face {
+  width: 150px;
+  height: 150px;
+  margin: 20px auto;
+  background: #555;
+  border: 5px solid transparent;
+  border-radius: 12px;
+  transition: background 0.3s, border-color 0.3s;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
